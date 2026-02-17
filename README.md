@@ -13,7 +13,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 3rd Year B.Tech IT Student  
+- 🎓 4rd Year B.Tech IT Student  
 - 🔁 Strong interest in DevOps, CI/CD & Cloud  
 - 🤖 Exploring **Generative AI for DevOps (AIOps)**  
 - 🌱 Always learning by building real projects  
